@@ -1,0 +1,71 @@
+8.3.3
+
+カーソル移動系
+Open Quickly,Shift,Cmd,J
+,Alt,→
+,Alt,←
+行末へ移動,,Cmd,→
+行頭,Cmd,←
+?
+Go Back,Ctrl,Cmd,←右にスワイプ
+Go Forward,Ctrl,Cmd,→左にスワイプ
+?
+Jump to Definition,Ctrl,Cmd,JCmd+くりっく
+?
+Show Next Tab,Shift,Cmd,},Open Tab,Cmd,T
+Show Previous Tab,Shift,Cmd,{,Close Tab,Cmd,W
+Move Focus to Next Area,Alt,Cmd,`
+?
+クイックアウトライン？
+Find,Cmd,F
+Replace,Cmd,Alt,F
+Find Next,Cmd,G
+Find Previous,Shift,Cmd,G
+Use Selection For Find,Cmd,E
+タブを検索？
+定数を抽出？
+Jump to Next Issue,Cmd,'
+？
+Find in Project,Shift,Cmd,F
+呼び出し階層,Ctrl,1,,Callers
+Jump to Line,Cmd,L
+
+
+入力補助系
+,Ctrl,.(ピリオド)
+?
+?
+Comment Selection,Cmd,/
+(リファクタリングはXcode9, Swift 4にて追加予定)
+?
+Re-Indent,Ctrl,I
+デフォルトでキーバインド設定なし
+デフォルトでキーバインド設定なし
+?
+?
+
+
+
+
+それ以外
+Fold,Alt,Cmd,←
+Unfold,Alt,Cmd,→
+?
+?
+?
+Build,Cmd,B
+Run,Cmd,R
+Edit Scheme,Alt,Cmd,R
+Clean,Shift,Cmd,K
+リビルド
+ブレークポイントの切り替え,Cmd,¥
+Continue,Ctrl,Cmd,Y
+Continue to Current Line,Ctrl,Cmd,C
+Step Into,F7
+Step Over,F6
+Step Out,F8
+
+
+
+
+Reveal in Project Navigator,Shift,Cmd,J
